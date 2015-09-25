@@ -2,7 +2,7 @@
   "name": "trivia",
   "version": "1.0.0",
   "description": "Generate random trivia questions",
-  "main": "app.js",
+  "main": "trivia.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
