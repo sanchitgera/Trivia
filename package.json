@@ -1,0 +1,18 @@
+{
+  "name": "trivia",
+  "version": "1.0.0",
+  "description": "Generate random trivia questions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Triva",
+    "Quiz"
+  ],
+  "author": "Sanchit Gera (gerasanchit@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.64.0"
+  }
+}
